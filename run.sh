@@ -1,7 +1,4 @@
 #!/usr/bin/with-contenv bashio
 
-echo "Hello world!"
-
-python3 -m http.server 8000
-
+java -jar kotlin-dns-1.0-all.jar
 
