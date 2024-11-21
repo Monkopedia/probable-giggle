@@ -12,6 +12,6 @@ arch:
 stdin: true
 startup: services
 ports:
-  2053/tcp: 8000
+  8000/tcp: 8000
 
 
