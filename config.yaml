@@ -1,7 +1,7 @@
 name: "Local DNS"
 description: "Custom DNS that receives local hosts fromm STDIN"
 version: "1.0.0"
-slug: "probably_giggle"
+slug: "probable_giggle"
 init: false
 arch:
   - aarch64
@@ -12,6 +12,6 @@ arch:
 stdin: true
 startup: services
 ports:
-  8000/tcp: 8000
+  8053/tcp: 8053
 
 
