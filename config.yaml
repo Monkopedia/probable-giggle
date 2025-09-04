@@ -12,6 +12,6 @@ arch:
 stdin: true
 startup: services
 ports:
-  8053/udp: 8053
+  53/udp: 53
 
 
